@@ -1237,17 +1237,14 @@
         <action id="ε">
             <when state="none" output="ε"/>
             <when state="dead:acute" output="έ"/>
-            <when state="dead:iota" output="ε"/>
         </action>
         <action id="η">
             <when state="none" output="η"/>
             <when state="dead:acute" output="ή"/>
-            <when state="dead:iota" output="ῃ"/>
         </action>
         <action id="ι">
             <when state="none" output="ι"/>
             <when state="dead:acute" output="ί"/>
-            <when state="dead:iota" output="ι"/>
         </action>
         <action id="ο">
             <when state="none" output="ο"/>
@@ -1260,7 +1257,6 @@
         <action id="ω">
             <when state="none" output="ω"/>
             <when state="dead:acute" output="ώ"/>
-            <when state="dead:iota" output="ῳ"/>
         </action>
         <action id="ἀ">
             <when state="none" output="ἀ"/>
